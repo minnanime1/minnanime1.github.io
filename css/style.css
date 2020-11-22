@@ -127,3 +127,6 @@ audio {
     .name {
         font-family: 'Big Shoulders Inline Text', cursive;
     }
+    .bi {
+        background-image: url(img/pop.jpeg);
+    }
