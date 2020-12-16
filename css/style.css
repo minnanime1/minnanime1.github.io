@@ -16,7 +16,7 @@
     filter: drop-shadow(1px, 1px, 1px, rgba(0,0,0, .8));
 }
 
-section, footer {
+section, .flow-text {
     padding: 20px 0;
 }
 audio {
@@ -107,10 +107,13 @@ audio {
     .logo {
         padding: 5px;
         margin: 5px;
+     
     }
     .name {
         font-family: 'Big Shoulders Inline Text', cursive;
     }
     .bi {
         background-color: grey;
+   
+        
     }
